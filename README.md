@@ -1,2 +1,2 @@
 # NPTEL-Java-Assignment-Solution
-This repository contains the solutions of programming assignments of the course `Programming in Java` by Prof. Debasis Samanta of IIT Kharagpur through NPTEL.
+This repository contains the solutions to the programming assignments for the course `Programming in Java`, taught by Prof. Debasis Samanta at IIT Kharagpur through NPTEL
